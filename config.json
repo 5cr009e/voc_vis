@@ -1,0 +1,14 @@
+{
+    "img_id": "00126000",
+    "ir_img_path": "./",
+    "ir_anno_path": "./",
+    "rgb_img_path": "./",
+    "rgb_anno_path": "./",
+    "colormap": 
+        {
+            "tree": "green", 
+            "car": "red", 
+            "default": "black"
+        }
+
+}
